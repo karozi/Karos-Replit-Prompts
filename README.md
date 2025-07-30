@@ -35,7 +35,8 @@ Copy any prompt below and paste it into your Replit chat or AI assistant. These 
 
 ## 📜 License
 
-This collection is open source and available under the MIT License. Feel free to use, modify, and share these prompts in your own projects.
+This collection is available under the MIT license.
+
 ---
 
 ## 🌐 Related
