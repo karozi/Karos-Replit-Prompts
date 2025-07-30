@@ -33,25 +33,6 @@ Copy any prompt below and paste it into your Replit chat or AI assistant. These 
      
 ---
 
-## 💡 Why Use These Prompts?
-
-- ✅ Safe to use in production (enforces no writes)
-- ⚖️ Ideal for audits, scale testing, or “just one more test”
-- 🧱 Plug into Replit, Postman, k6, Artillery, or curl
-- 💬 Designed for human readability and team handoffs
-
----
-
-## 📦 Planned Additions
-
-- `🛡️ Diagnostic Frontend Observer`
-- `📉 Database Bottleneck Hunter`
-- `🧼 Caching Verifier`
-- `📡 Webhook Reliability Sniffer`
-- `👀 Auth/Token Validator`
-
----
-
 ## 📜 License
 
 This collection is open source and available under the MIT License. Feel free to use, modify, and share these prompts in your own projects.
